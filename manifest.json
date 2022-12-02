@@ -1,8 +1,8 @@
 {
   "bundleName": "@local/demopb",
   "version": "0.0.1",
-  "fingerprint": "638a57b1b2b60d008618fc58",
-  "createdEpoch": "1670010801026",
+  "fingerprint": "638a5ad5b2b60d008618fc5a",
+  "createdEpoch": "1670011605654",
   "artifacts": [
     {
       "id": "demo Operations Manager Automation",
