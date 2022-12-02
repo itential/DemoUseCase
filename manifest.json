@@ -1,23 +1,14 @@
 {
   "bundleName": "@local/demopb",
   "version": "0.0.1",
-  "fingerprint": "638a55b5b2b60d008618fc56",
-  "createdEpoch": "1670010293967",
+  "fingerprint": "638a57b1b2b60d008618fc58",
+  "createdEpoch": "1670010801026",
   "artifacts": [
     {
       "id": "demo Operations Manager Automation",
       "name": "demo Operations Manager Automation",
       "type": "automation",
       "location": "/bundles/automations/demo Operations Manager Automation.json",
-      "properties": {
-        "entryPoint": false
-      }
-    },
-    {
-      "id": "demo Parent Workflow",
-      "name": "demo Parent Workflow",
-      "type": "workflow",
-      "location": "/bundles/workflows/demo Parent Workflow.json",
       "properties": {
         "entryPoint": false
       }
